@@ -1,4 +1,5 @@
 import Chart from 'react-apexcharts';
+import React from 'react';
 
 const BarChart = () => {
 
@@ -23,11 +24,11 @@ const BarChart = () => {
     };
     return (
         <Chart
-            options={{ ...options, xaxis: mockData.labels}}
+            options={{ ...options, xaxis: mockData.labels }}
             series={mockData.series}
             type="bar"
             height="240"
-                />
+        />
     );
 }
 
