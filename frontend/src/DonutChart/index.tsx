@@ -1,4 +1,5 @@
 import Chart from 'react-apexcharts';
+import React from 'react';
 
 const DonutChart = () => {
 

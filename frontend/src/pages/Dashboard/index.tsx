@@ -3,6 +3,7 @@ import BarChart from "BarChart";
 import DonutChart from "DonutChart";
 import DataTable from "DataTable";
 import Footer from "Footer";
+import React from "react";
 
 const Dashboard = () => {
     return (

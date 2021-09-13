@@ -1,3 +1,6 @@
 {
-    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "emmet.includeLanguages": {
+        "jsx": "react-jsx"
+    }
 }
