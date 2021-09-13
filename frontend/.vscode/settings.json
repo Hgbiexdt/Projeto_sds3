@@ -2,5 +2,6 @@
     "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
     "emmet.includeLanguages": {
         "jsx": "react-jsx"
-    }
+    },
+    "git.ignoreLimitWarning": true
 }
